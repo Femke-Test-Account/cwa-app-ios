@@ -49,9 +49,9 @@
 "General_moreInfo_URL_EN13" = "https://www.coronawarn.app/en/faq/#ENError13";
 
 /* Accessibility */
-"AccessibilityLabel_Close" = "Close";
+"AccessibilityLabel_Close" = "Exit";
 
-"AccessibilityLabel_PhoneNumber" = "Phone number";
+"AccessibilityLabel_PhoneNumber" = "Number";
 
 /* Exposure Detection */
 "ExposureDetection_Off" = "Exposure logging stopped";
